@@ -10,4 +10,4 @@ layout: post
 
 我的第一篇日记
 
-![1564904883735](C:\Users\Eric Yue\AppData\Roaming\Typora\typora-user-images\1564904883735.png)
+![1564907399898](C:\youyulab\gitblog\eric6666.github.io\assets\images\blog\1564907399898.png)
