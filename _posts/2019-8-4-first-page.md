@@ -10,4 +10,6 @@ layout: post
 
 我的第一篇日记
 
-![1564907399898](C:\youyulab\gitblog\eric6666.github.io\assets\images\blog\1564907399898.png)
+
+
+![1564907572330](../assets/images/blog/1564907572330.png)
